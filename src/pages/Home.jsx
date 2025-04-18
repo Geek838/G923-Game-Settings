@@ -1,5 +1,5 @@
 import React from 'react';
-import rawSettings from '../../g29_settings.json';
+import rawSettings from '../data/g29_settings.json';
 import GameTable from '../components/GameTable';
 
 export default function Home() {

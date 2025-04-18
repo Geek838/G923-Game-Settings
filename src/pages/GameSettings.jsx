@@ -1,5 +1,5 @@
 import { useParams, Link } from 'react-router-dom'
-import rawSettings from '../../g29_settings.json'
+import rawSettings from '../data/g29_settings.json'
 
 // Utility to convert game names to URL-friendly slugs
 function slugify(name) {
