@@ -2,12 +2,14 @@
   "name": "g923-settings",
   "version": "1.0.0",
   "private": true,
+  "homepage": ".",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d dist",
+    "postbuild": "copy dist\\index.html dist\\404.html"
   },
   "dependencies": {
     "react": "^18.2.0",
