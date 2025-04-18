@@ -1,0 +1,713 @@
+{
+    "American Truck Simulator": {
+      "G_HUB_Settings": {
+        "Operating Range": "900°",
+        "Sensitivity": 50,
+        "Centering Spring": "Off"
+      },
+      "In_Game_Settings": {
+        "Truck Physics": {
+          "Uneven Surface Simulation": "52%"
+        },
+        "Controls": {
+          "Controller Subtype": "Wheel",
+          "Steering Sensitivity": 0.40,
+          "Steering Non-linearity": 0.00,
+          "Steering Animation Range": "900°"
+        },
+        "Controller Feedback": {
+          "Force Feedback": true,
+          "Overall Gain": "120%",
+          "Centering at High Speed": "100%",
+          "Centering at Low Speed": "42%",
+          "Internal Friction": "42%",
+          "Engine Resonance": "5%",
+          "Terrain Surface": "11%",
+          "Bumps": "80%",
+          "Collisions": "72%",
+          "Gearbox Grind": "32%",
+          "Understeer Slip": "32%",
+          "Assisted Steering": "50%"
+        }
+      }
+    },
+    "Assetto Corsa": {
+      "G_HUB_Settings": {
+        "Operating Range": "900°",
+        "Sensitivity": 50,
+        "Centering Spring": "Off"
+      },
+      "In_Game_Settings": {
+        "Steering Settings": {
+          "Gamma": 1.00,
+          "Filter": 0.00,
+          "Speed Sensitivity": 0.00
+        },
+        "Force Feedback": {
+          "Gain": "100%",
+          "Filter": "0%",
+          "Minimum Force": "0%",
+          "Kerb Effect": "30%",
+          "Road Effect": "23%",
+          "Slip Effect": "0%",
+          "ABS Effect": "25%",
+          "Enhanced Understeer Effect": "Disabled",
+          "Half FFB Update Rate": "Disabled"
+        }
+      },
+      "FFBClip_Settings": {
+        "Strength": 90,
+        "Dynamic Mode": "Off"
+      }
+    },
+    "Assetto Corsa Competizione": {
+      "G_HUB_Settings": {
+        "Operating Range": "900° (or car‑specific)",
+        "Sensitivity": 50,
+        "Centering Spring": "Off"
+      },
+      "In_Game_Settings": {
+        "Force Feedback": {
+          "Gain": "90%",
+          "Minimum Force": "0%",
+          "Damper": "0%",
+          "Dynamic Damping": "30%",
+          "Road Effects": "10%",
+          "Frequency": "400 Hz",
+          "Steer Lock": "10°",
+          "Steer Linearity": 1.00,
+          "Brake Gamma": 2.40,
+          "Gearshift Debouncing": "50 ms",
+          "Manufacturer Extras": "Enabled"
+        }
+      }
+    },
+    "Assetto Corsa EVO": {
+      "G_HUB_Settings": {
+        "Operating Range": "900°",
+        "Sensitivity": 50,
+        "Centering Spring": "Off"
+      },
+      "In_Game_Settings": {
+        "Settings": {
+          "Steering Lock": "900°",
+          "FFB Gain": "90%",
+          "Dynamic Damping": "40%",
+          "Minimum Damper": "0%",
+          "Damper Gain": "30%",
+          "TrueForce Gain": "0%"
+        }
+      }
+    },
+    "Automobilista": {
+      "G_HUB_Settings": {
+        "Operating Range": "900°",
+        "Sensitivity": 50,
+        "Centering Spring": "Off"
+      },
+      "In_Game_Settings": {
+        "Control Scheme": {
+          "Type": "Wheel",
+          "Make": "Logitech",
+          "Model": "G29 / G920",
+          "Pedal Type": "Separate"
+        },
+        "Configuration": {
+          "Steering Deadzone": 0,
+          "Steering Sensitivity": 50,
+          "Throttle Deadzone": 0,
+          "Throttle Sensitivity": 30,
+          "Brake Deadzone": 0,
+          "Brake Sensitivity": 50,
+          "Clutch Deadzone": 7,
+          "Clutch Sensitivity": 50
+        },
+        "Force Feedback": {
+          "Type": "Default+",
+          "Gain": 75,
+          "Low Force Boost": 10,
+          "FX": 20,
+          "Damping": 3
+        }
+      }
+    },
+    "Automobilista 2": {
+      "G_HUB_Settings": {
+        "Operating Range": "900°",
+        "Sensitivity": 50,
+        "Centering Spring": "Off"
+      },
+      "In_Game_Settings": {
+        "Control Scheme": {
+          "Type": "Wheel",
+          "Make": "Logitech",
+          "Model": "G29 / G920",
+          "Pedal Type": "Separate"
+        },
+        "Configuration": {
+          "Steering Deadzone": 0,
+          "Steering Sensitivity": 50,
+          "Throttle Deadzone": 0,
+          "Throttle Sensitivity": 30,
+          "Brake Deadzone": 0,
+          "Brake Sensitivity": 50,
+          "Clutch Deadzone": 7,
+          "Clutch Sensitivity": 50
+        },
+        "Force Feedback": {
+          "Type": "Default+",
+          "Gain": 75,
+          "Low Force Boost": 10,
+          "FX": 20,
+          "Damping": 3
+        }
+      }
+    },
+    "BeamNG.drive": {
+      "G_HUB_Settings": {
+        "Operating Range": "900°",
+        "Sensitivity": 50,
+        "Centering Spring": "Off"
+      },
+      "In_Game_Settings": {
+        "Wheel Settings": {
+          "Steering Saturation": "360°",
+          "FFB Strength": "100%"
+        }
+      }
+    },
+    "iRacing": {
+      "G_HUB_Settings": {
+        "Operating Range": "900°",
+        "Sensitivity": 50,
+        "Centering Spring": "Off"
+      },
+      "In_Game_Settings": {
+        "FFB Settings": {
+          "Overall Strength": "100%",
+          "Road Feel": "30%",
+          "Slip Effects": "0%"
+        }
+      }
+    },
+    "F1 2020": {
+      "G_HUB_Settings": {
+        "Operating Range": "900°",
+        "Sensitivity": 50,
+        "Centering Spring": "Off"
+      },
+      "In_Game_Settings": {
+        "Steering": {
+          "Linear Deadzone": "0%",
+          "Rate": "100%"
+        },
+        "FFB": {
+          "Strength": "95%",
+          "Minimum Force": "0%"
+        }
+      }
+    },
+    "F1 2021": {
+      "G_HUB_Settings": {
+        "Operating Range": "900°",
+        "Sensitivity": 50,
+        "Centering Spring": "Off"
+      },
+      "In_Game_Settings": {
+        "Steering Settings": {
+          "Steering Linearity": "1.00",
+          "Wheel Damper": "0%"
+        },
+        "Force Feedback": {
+          "Gain": "95%",
+          "Damping": "0%"
+        }
+      }
+    },
+    "CarX Street": {
+      "G_HUB_Settings": {
+        "Operating Range": "360°",
+        "Sensitivity": 50,
+        "Centering Spring": "Off"
+      },
+      "In_Game_Settings": {
+        "In Settings > Game": {
+          "Show Wheel": "Yes",
+          "Wheel Angle (visual)": "360°"
+        },
+        "In Settings > Controls": {
+          "Gearbox Type": "Manual",
+          "Clutch Mode": "Auto (personal preference)",
+          "Axis Visuals Controls": "Off",
+          "Force Feedback": "0.6"
+        }
+      }
+    },
+    "Gravel": {
+      "G_HUB_Settings": {},
+      "In_Game_Settings": {
+        "In Game Options > Controller > Wheel Settings": {
+          "Steering Linearity": "0",
+          "Steering Deadzone": "0",
+          "Force Feedback Intensity": "45",
+          "Vibration Intensity": "40",
+          "Throttle Linearity": "0",
+          "Throttle Deadzone": "0",
+          "Brake Linearity": "0",
+          "Brake Deadzone": "0",
+          "Steering Angle Settings": "Automatic"
+        }
+      }
+    },
+    "RENNSPORT": {
+      "G_HUB_Settings": {
+        "Operating Range": "900°",
+        "Sensitivity": 50,
+        "Centering Spring": "Off"
+      },
+      "In_Game_Settings": {
+        "In Options > Gameplay > Assists": {
+          "Counter Steering": "Medium (all other assists disabled)"
+        },
+        "In Options > Controls > Basic Steering > Wheel & Pedals": {
+          "Paddle Bindings": "Manual bind required"
+        },
+        "In Options > Controls > Force Feedback": {
+          "Forces Strength": "100",
+          "Invert": "Yes",
+          "Filter": "2",
+          "Sensitivity": "100",
+          "Minimum Force": "10",
+          "Tick Rate": "400"
+        }
+      }
+    },
+    "Richard Burns Rally": {
+      "G_HUB_Settings": {
+        "Operating Range": "900°",
+        "Sensitivity": 50,
+        "Centering Spring": "Off"
+      },
+      "In_Game_Settings": {
+        "In RallySimsFans Launcher > Controls": {
+          "Throttle Pedal Inverted": "Unchecked",
+          "Brake Pedal Inverted": "Unchecked",
+          "Clutch Pedal Inverted": "Unchecked"
+        },
+        "In RallySimsFans Launcher > Controls > Force Feedback Settings": {
+          "Use FFB Effects": "On",
+          "Parallel FFB Effects": "1000",
+          "FFB Sensitivity on Gravel": "450 (AWD) / 350 (RWD)",
+          "FFB Sensitivity on Tarmac": "450 (AWD) / 350 (RWD)",
+          "FFB Sensitivity on Snow": "500 (AWD) / 400 (RWD)",
+          "FFB Deadzone Range": "0%",
+          "Force Threshold": "0%",
+          "Adjust Steering Wheel Range Per Car": "On",
+          "Steering Wheel FFB Compatibility Mode": "Off"
+        }
+      }
+    },
+    "NASCAR Heat 3": {
+      "G_HUB_Settings": {
+        "Operating Range": "240°",
+        "Sensitivity": "50",
+        "Centering Spring": "Off"
+      },
+      "In_Game_Settings": {
+        "In Options > Controls > Input Device": {
+          "Input Device": "Wheel",
+          "Rotation Angle": "240°"
+        },
+        "In Options > Controls": {
+          "Steering Deadzone": "-5",
+          "Steering Range": "+5",
+          "Steering Sensitivity": "0",
+          "Brake Sensitivity": "-5",
+          "Throttle Sensitivity": "-5"
+        },
+        "In Options > Controls > Controller Features": {
+          "Force Feedback Strength": "-1 (Tarmac) / +2 (Dirt)",
+          "Impact Effect": "On"
+        }
+      }
+    },
+    "Taxi Life": {
+      "G_HUB_Settings": {
+        "Steering Wheel": {
+          "Operating Range": "900°",
+          "Sensitivity": "50",
+          "Centering Spring": "Off"
+        },
+        "Pedals": {
+          "Brake Sensitivity": "70",
+          "Accelerator Sensitivity": "70"
+        }
+      },
+      "In_Game_Settings": {
+        "In Game Settings > Gameplay": {
+          "Gearbox Modes": "Simulation / Simulation + Clutch"
+        },
+        "In System Settings > Controls": {
+          "Device Type": "Steering Wheel",
+          "Force Feedback Damper": "85%",
+          "Force Feedback Spring": "50%",
+          "Force Feedback Constant": "75%",
+          "Force Feedback Periodic": "65%",
+          "Custom Setup": "Off"
+        }
+      }
+    },
+    "KartKraft": {
+      "G_HUB_Settings": {
+        "Operating Range": "900°",
+        "Sensitivity": "50",
+        "Centering Spring": "Off"
+      },
+      "In_Game_Settings": {
+        "In Settings > Input Bindings": {
+          "Force Feedback Gain": "100%",
+          "Force Feedback Filtering": "0%",
+          "Minimum Force": "14%",
+          "Force Feedback Deadzone": "0%",
+          "Force Feedback Invert": "Off"
+        }
+      }
+    },
+    "NASCAR Heat Evolution": {
+      "G_HUB_Settings": {
+        "Operating Range": "240°",
+        "Sensitivity": "50",
+        "Centering Spring": "Off"
+      },
+      "In_Game_Settings": {
+        "First Time Setup": {
+          "Is a Steering Wheel": "Yes",
+          "Has Force Feedback": "Yes"
+        },
+        "In Options > Game Settings > Advanced Settings": {
+          "Physics": "Simulation",
+          "Transmission": "Manual"
+        },
+        "In Options > Controls": {
+          "Device Rotation Range": "180 degrees",
+          "Steering Sensitivity": "0",
+          "Brake Sensitivity": "-5",
+          "Throttle Sensitivity": "-5",
+          "Force Feedback Strength": "+3",
+          "Impact Effects": "On"
+        }
+      }
+    },
+    "DiRT 3": {
+      "G_HUB_Settings": {
+        "Operating Range": "540°",
+        "Sensitivity": "50",
+        "Centering Spring": "Off"
+      },
+      "In_Game_Settings": {
+        "In Options > Controls": {
+          "Preset": "Logitech G29 / G920"
+        },
+        "In Options > Controls > Advanced Wheel Settings": {
+          "Steering Deadzone": "0%",
+          "Steering Saturation": "100%",
+          "Steering Linearity": "0",
+          "Throttle Deadzone": "0%",
+          "Throttle Saturation": "100%",
+          "Brake Deadzone": "0%",
+          "Brake Saturation": "100%"
+        },
+        "In Options > Vibration & Feedback": {
+          "Vibration & Feedback": "On",
+          "Vibration Strength": "50%",
+          "Wheel Strength": "80%",
+          "Wheel Weight": "0%"
+        }
+      }
+    },
+    "NASCAR Racing 2003 Season": {
+      "G_HUB_Settings": {
+        "Operating Range": "270°",
+        "Sensitivity": "50",
+        "Centering Spring": "Off"
+      },
+      "In_Game_Settings": {}
+    },
+    "Test Drive Unlimited Solar Crown": {
+      "G_HUB_Settings": {
+        "Operating Range": "900°",
+        "Sensitivity": "50",
+        "Centering Spring": "Off"
+      },
+      "In_Game_Settings": {}
+    },
+    "F1 2018": {
+      "G_HUB_Settings": {
+        "Operating Range": "360°",
+        "Sensitivity": "50",
+        "Centering Spring": "Off"
+      },
+      "In_Game_Settings": {
+        "In Game Options > Settings > Controls, Vibration & Force Feedback > Logitech G29 / G920 > Calibration": {
+          "Steering Deadzone": "0",
+          "Steering Linearity": "10",
+          "Steering Saturation": "0"
+        },
+        "In Game Options > Settings > Controls, Vibration & Force Feedback > Logitech G29 / G920 > Vibration & Force Feedback": {
+          "Vibration & Force Feedback": "On",
+          "Vibration & Force Feedback Strength": "45",
+          "On Track Effects": "18",
+          "Rumblestrip Effects": "25",
+          "Off Track Effects": "18",
+          "Wheel Damper": "0",
+          "Understeer Enhance": "Off"
+        }
+      }
+    },
+    "Shift 2 Unleashed": {
+      "G_HUB_Settings": {
+        "Operating Range": "480°",
+        "Sensitivity": "50",
+        "Centering Spring": "Off"
+      },
+      "In_Game_Settings": {
+        "In Options > Gameplay": {
+          "Traction Control": "No",
+          "Stability Control": "No"
+        },
+        "In Options > Gameplay > Controls": {
+          "Preset Config": "G27",
+          "Gears": "Manual"
+        },
+        "In Options > Gameplay > Adjust Controls > Advanced": {
+          "Force Feedback Strength": "64%",
+          "Steering Deadzone": "0%",
+          "Steering Sensitivity": "50%",
+          "Throttle Deadzone": "0%",
+          "Brake Deadzone": "0%",
+          "Speed Sensitivity": "0%",
+          "Speed Sensitivity (Drift)": "0%",
+          "Steering Lock": "100%",
+          "Steering Lock (Drift)": "75%"
+        }
+      }
+    },
+    "Sébastien Loeb Rally EVO": {
+      "G_HUB_Settings": {
+        "Operating Range": "900°",
+        "Sensitivity": "50",
+        "Centering Spring": "Off"
+      },
+      "In_Game_Settings": {}
+    },
+    "Race Driver: GRID": {
+      "G_HUB_Settings": {
+        "Operating Range": "180°",
+        "Sensitivity": "50",
+        "Centering Spring": "Off"
+      },
+      "In_Game_Settings": {
+        "In Options > Driving Options > Driving Assists": {
+          "Traction Control": "Off",
+          "Transmission": "Manual",
+          "Braking Assist": "Off",
+          "Stability Control": "Off"
+        },
+        "In Options > Driving Options > Advanced": {
+          "Steering Deadzone": "0%",
+          "Steering Saturation": "100%",
+          "Steering Linearity": "0",
+          "Acceleration Pedal Deadzone": "0%",
+          "Acceleration Pedal Saturation": "100%",
+          "Brake Pedal Deadzone": "0%",
+          "Brake Pedal Saturation": "100%"
+        },
+        "In Options > Driving Options > Force Feedback / Vibration": {
+          "Force / Vibration": "On",
+          "Force Strength": "60%",
+          "Force Weight": "0%",
+          "Effects Strength": "50%"
+        }
+      }
+    },
+    "Euro Truck Simulator 2": {
+      "G_HUB_Settings": {
+        "Operating Range": "900°",
+        "Sensitivity": "50",
+        "Centering Spring": "Off"
+      },
+      "In_Game_Settings": {
+        "In Options > Gameplay > Truck Physics": {
+          "Uneven Surface Simulation": "52%"
+        },
+        "In Options > Controls > Controller": {
+          "Controller Subtype": "Wheel",
+          "Steering Sensitivity": "0.40",
+          "Steering Non-linearity": "0.00",
+          "Steering Animation Range": "900°"
+        },
+        "In Options > Controls > Controller Feedback": {
+          "Force Feedback": "Checked",
+          "Overall Gain": "120%",
+          "Centering at High Speed": "100%",
+          "Centering at Low Speed": "42%",
+          "Internal Friction": "42%",
+          "Engine Resonance": "5%",
+          "Terrain Surface": "11%",
+          "Bumps": "80%",
+          "Collisions": "72%",
+          "Gearbox Grind": "32%",
+          "Understeer Slip": "32%",
+          "Assisted Steering": "50%"
+        }
+      }
+    },
+    "F1 23": {
+      "G_HUB_Settings": {
+        "Operating Range": "900°",
+        "Sensitivity": "50",
+        "Centering Spring": "Off"
+      },
+      "In_Game_Settings": {
+        "In Options > Settings > Controls, Vibration & Force Feedback > Logitech G29 / G920 > Calibration": {
+          "Steering Rate": "100%",
+          "Steering Deadzone": "0",
+          "Steering Linearity": "0-10",
+          "Steering Saturation": "0"
+        },
+        "In Options > Settings > Controls, Vibration & Force Feedback > Logitech G29 / G920 > Vibration & Force Feedback": {
+          "Vibration & Force Feedback": "On",
+          "Vibration & Force Feedback Strength": "40 (F1) / 35 (Supercars)",
+          "On Track Effects": "50 (F1) / 40 (Supercars)",
+          "Rumble Strip Effects": "35",
+          "Off Track Effects": "50",
+          "Wheel Damper": "1",
+          "Maximum Wheel Rotation (F1 & F2)": "360°",
+          "Maximum Wheel Rotation (Supercars)": "720°"
+        }
+      }
+    },
+    "F1 24": {
+      "G_HUB_Settings": {
+        "Operating Range": "900°",
+        "Sensitivity": "50",
+        "Centering Spring": "Off"
+      },
+      "In_Game_Settings": {
+        "In Options > Settings > Controls, Vibration & Force Feedback > Logitech G29 / G920 > Calibration": {
+          "Steering Rate": "100%",
+          "Steering Deadzone": "0",
+          "Steering Linearity": "0-10",
+          "Steering Saturation": "0"
+        },
+        "In Options > Settings > Controls, Vibration & Force Feedback > Logitech G29 / G920 > Vibration & Feedback": {
+          "Vibration & Force Feedback": "On",
+          "Vibration & Force Feedback Strength": "43",
+          "On Track Effects": "60",
+          "Rumble Strip Effects": "60",
+          "Off Track Effects": "55",
+          "Pit Stop Effects": "50",
+          "Wheel Damper": "1",
+          "Maximum Wheel Rotation": "360°"
+        }
+      }
+    },
+    "rFactor 2": {
+      "G_HUB_Settings": {
+        "Operating Range": "900°",
+        "Sensitivity": "50",
+        "Centering Spring": "Off"
+      },
+      "In_Game_Settings": {
+        "In Options > Calibrate Controls > Force Feedback Settings": {
+          "Type": "Wheel",
+          "Smoothing": "4",
+          "Car specific multiplier": "100%",
+          "Minimum steering torque": "11.0%",
+          "Force feedback strength": "100%"
+        },
+        "In Options > Calibrate Controls > Steering Settings": {
+          "Rotation limit mode": "Software",
+          "Max wheel angle mode": "Custom",
+          "Default max wheel angle": "900 deg",
+          "Range set by vehicle": "Checked",
+          "Speed sensitivity": "0%",
+          "Exaggerate yaw": "0.0%",
+          "Look ahead": "0.0%"
+        }
+      }
+    },
+    "DiRT 4": {
+      "G_HUB_Settings": {
+        "Operating Range": "900°",
+        "Sensitivity": "50",
+        "Centering Spring": "Off"
+      },
+      "In_Game_Settings": {
+        "In Options & Extras > Input > Device Management > Logitech G29 / G920 > Advanced Input Settings": {
+          "Steering Linearity": "0",
+          "Steering Deadzone": "0",
+          "Steering Saturation": "100",
+          "Soft Lock": "On"
+        }
+      }
+    },
+    "DiRT Rally": {
+      "G_HUB_Settings": {
+        "Operating Range": "900°",
+        "Sensitivity": "50",
+        "Centering Spring": "Off"
+      },
+      "In_Game_Settings": {
+        "In Options & Extras > Controls > Advanced Wheel Settings": {
+          "Steering Deadzone": "0%",
+          "Steering Saturation": "100%",
+          "Steering Linearity": "-4 – 0",
+          "Throttle Deadzone": "0%",
+          "Throttle Saturation": "100%",
+          "Brake Deadzone": "0%",
+          "Brake Saturation": "100%",
+          "Soft Lock": "On",
+          "Center Steering": "On"
+        },
+        "In Options & Extras > Controls > Vibration & Feedback": {
+          "Vibration & Feedback": "On",
+          "Self Aligning Torque": "65%",
+          "Wheel Friction": "0%",
+          "Tire Friction": "0%",
+          "Suspension": "65%",
+          "Tire Slip": "0%",
+          "Collision": "70%",
+          "Soft Lock": "150%",
+          "Steering Centre Force": "100%"
+        }
+      }
+    },
+    "DiRT Rally 2.0": {
+      "G_HUB_Settings": {
+        "Operating Range": "900°",
+        "Sensitivity": "50",
+        "Centering Spring": "Off"
+      },
+      "In_Game_Settings": {
+        "In Options & Extras > Input > Connected Devices > Logitech G29 / G920 > Advanced Settings": {
+          "Steering Linearity": "-4 – 0",
+          "Steering Deadzone": "0",
+          "Steering Saturation": "100",
+          "Soft Lock": "On"
+        },
+        "In Options & Extras > Input > Connected Devices > Logitech G29 / G920 > Vibration & Feedback": {
+          "Vibration & Feedback": "On",
+          "Self Aligning Torque": "65",
+          "Wheel Friction": "0",
+          "Tire Friction": "0",
+          "Suspension": "65",
+          "Collision": "90",
+          "Soft Lock": "150",
+          "Steering Centre Force Enabled": "On",
+          "Steering Centre Force": "100"
+        }
+      }
+    }
+  }
+  
